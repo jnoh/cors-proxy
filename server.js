@@ -1,4 +1,4 @@
-var TARGET_URL = "http://www.google.com"
+var TARGET_URL = "http://patreon-flash-cards-api.herokuapp.com"
 
 var express = require('express'),
     request = require('request'),
